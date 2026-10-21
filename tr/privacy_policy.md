@@ -1,12 +1,14 @@
 # Gizlilik Politikası
 
-> Sürüm 1 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 2 · yürürlük 2026-10-21 08:06 UTC
 > 
-> SHA-256: `aaaa9ab6b1954eef36c31df6885b90530239cb246bc6c3bc5b7ab6301d347d19`
+> SHA-256: `b8e0f1829efa3d1d6a73cdbb488e04f067c662bfa40f71b0856895b62202a5e8`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/6
+> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/32
 > 
 > Güncel metin: https://ucuzuburada.com/privacy-policy
+> 
+> Değişiklik: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
 
 ---
 
@@ -34,6 +36,7 @@ Bu Gizlilik Politikası, ucuzuburada.com internet sitesi ve Ucuzu Burada mobil u
 - **Bildirim kimliği:** Size mesaj ve ilan bildirimleri gönderebilmek için cihazınıza atanan bildirim anahtarı (Firebase Cloud Messaging).
 - **Çökme raporları:** Uygulama beklenmedik şekilde kapandığında ya da bir hata oluştuğunda; cihaz modeli, işletim sistemi ve uygulama sürümü ile hatanın teknik ayrıntısı (Firebase Crashlytics). Bu raporlar hesabınızla eşleştirilmez ve yalnızca hataları gidermek için kullanılır.
 - **Kullanım istatistikleri:** Uygulamada hangi ekranların açıldığına ve hangi özelliklerin kullanıldığına ilişkin, sizi tanıtmayan olaylar (örneğin bir arama yapıldığı ve aranan kelime, bir ilanın görüntülendiği, ilan verme adımları, paylaşma, favorilere ekleme); cihaz modeli, işletim sistemi, uygulama sürümü, dil, IP adresinden çıkarılan yaklaşık (ülke ve şehir düzeyinde) konum ve uygulamanın cihazınızdaki kopyasına özgü rastgele bir teknik kimlik (Google Firebase Analytics). Aranan kelimelerden telefon numarası, e-posta ve ilan numarası gibi kişisel bilgiler ayıklanır; adınız, telefonunuz, e-postanız, mesajlarınız ve hesap kimliğiniz istatistiklere eklenmez, reklam kimliği toplanmaz. Bu veriler reklam göstermek veya sizi başka uygulamalarda izlemek için kullanılmaz. Kullanım istatistikleri varsayılan olarak açıktır; Profil → Kullanım istatistikleri anahtarından dilediğiniz an kapatabilirsiniz.
+- **Yasal metin onay kaydı:** Kullanıcı Sözleşmesi'nin ve Gizlilik Politikası'nın hangi sürümünü ne zaman onayladığınız; hesabınız, onayladığınız metnin sürümü, onay zamanı, onayın uygulamadan mı internet sitesinden mi geldiği, uygulama sürümü ve IP adresinizin son bölümü silinerek kısaltılmış biçimi. Bu kayıt, olası bir uyuşmazlıkta hangi metni ne zaman kabul ettiğinizi ispat edebilmek için saklanır ve sonradan değiştirilemez.
 - **Çerezler ve benzeri teknolojiler:** Ayrıntılar için Çerez Politikası'na bakınız.
 
 ### 1.3 Üçüncü kişilerden gelen bilgiler
@@ -51,6 +54,7 @@ Bu Gizlilik Politikası, ucuzuburada.com internet sitesi ve Ucuzu Burada mobil u
 - Destek ve şikâyet taleplerini yanıtlamak;
 - Platform'u geliştirmek, hataları gidermek, istatistik ve kullanım analizleri yapmak;
 - İzin vermeniz hâlinde kampanya ve duyurular göndermek;
+- Hangi yasal metni ne zaman onayladığınızı kayıt altına almak ve olası uyuşmazlıklarda ispat edebilmek;
 - Yasal yükümlülüklerimizi yerine getirmek ve yetkili makamların usulüne uygun taleplerini karşılamak.
 
 ## 3. Herkese Açık Bilgiler
@@ -76,6 +80,7 @@ Hizmet sağlayıcılarımızın bir kısmı (Google, Apple, Microsoft ve benzerl
 - Hesap ve ilan bilgileri, hesabınız açık olduğu sürece saklanır.
 - Hesabınızı sildiğinizde profiliniz ve ilanlarınız yayından kaldırılır, hesabınız kullanıma kapatılır. Kimlik, işlem, mesaj ve güvenlik kayıtları; olası uyuşmazlıklar, dolandırıcılık incelemeleri ve yetkili makamların talepleri için ilgili yasal zamanaşımı süreleri boyunca güvenli şekilde saklanır ve bu süreler sonunda silinir veya anonim hâle getirilir.
 - Satın alma ve muhasebe kayıtları, vergi ve ticaret mevzuatının öngördüğü süre boyunca saklanır.
+- Yasal metin onay kayıtları (hangi sürümü ne zaman onayladığınız), olası uyuşmazlıklarda ispat için, hesabınızı silseniz bile ilgili yasal zamanaşımı süreleri boyunca saklanır; bu süreler sonunda silinir veya anonim hâle getirilir.
 - Uygulama çökme raporları en fazla 90 gün saklanır.
 - Uygulamadaki kullanım istatistikleri Google Firebase Analytics'te en fazla 14 ay saklanır.
 
