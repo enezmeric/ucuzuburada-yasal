@@ -1,12 +1,14 @@
 # Personal Data Notice
 
-> Version 1 · in force from 2026-10-21 08:06 UTC
+> Version 2 · in force from 2026-10-21 08:06 UTC
 > 
-> SHA-256: `598ac6631a6c4cee00502e7e68f7d4ae6f89d2d5577fc3dc12d49760d6081c69`
+> SHA-256: `424393edf225c5bd4ada55357f0d4188a978a767d7c995f7faf50e6149946b17`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/19
+> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/33
 > 
 > Current text: https://ucuzuburada.com/en/pages/kvkk-aydinlatma-metni
+> 
+> Change: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
 
 ---
 
@@ -33,6 +35,7 @@ E-mail: kvkk@ucuzuburada.com
 | Location | Ad location; device location if permitted |
 | Transaction security | IP address, device and session information, sign-in records, notification token, app crash reports |
 | Usage statistics | Screens opened, features used, words searched for; device model, operating system, app version and a random technical ID specific to this copy of the app on the device (not linked to the account) |
+| Legal text acceptance record | Which version of a legal text was accepted and when: account, version of the text, time of acceptance, source (app or website), app version and the IP address in a shortened form (last part removed) |
 | Marketing | Cookie and usage preferences, if consented |
 
 ## 3. Purposes and Legal Grounds
@@ -43,6 +46,7 @@ E-mail: kvkk@ucuzuburada.com
 | Account security, prevention of fraud and misuse, handling complaints | Legitimate interest of the data controller |
 | Responding to requests from authorities, accounting and retention obligations | Compliance with a legal obligation |
 | Establishing, exercising and defending rights in disputes | Establishment, exercise or defence of a right |
+| Keeping the record of which legal text you accepted (which version, when, which account) and proving it in disputes | Establishment, exercise or defence of a right; legitimate interest of the data controller |
 | Usage statistics that do not identify you, to improve the app and fix errors (on by default; can be turned off at any time with Profile → Usage statistics) | Legitimate interest of the data controller |
 | Location-based results, analytics cookies, promotional notifications | Explicit consent |
 
