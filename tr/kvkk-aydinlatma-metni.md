@@ -1,12 +1,14 @@
 # Kişisel Verilerin Korunması Aydınlatma Metni
 
-> Sürüm 1 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 2 · yürürlük 2026-10-21 08:06 UTC
 > 
-> SHA-256: `b5df397fc51619661e3b4b5d82b663a16e696e50a03d3019296c4a88342458d3`
+> SHA-256: `e6f4506a119c8ba8b3c9d85a1b8716a440d2a650fc0e74106788b34651ed21f0`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/20
+> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/34
 > 
 > Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni
+> 
+> Değişiklik: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
 
 ---
 
@@ -33,6 +35,7 @@ E-posta: kvkk@ucuzuburada.com
 | Konum | İlan konumu; izin verilmesi hâlinde cihaz konumu |
 | İşlem güvenliği | IP adresi, cihaz ve oturum bilgileri, giriş kayıtları, bildirim anahtarı, uygulama çökme raporları |
 | Kullanım istatistiği | Açılan ekranlar, kullanılan özellikler, aranan kelimeler; cihaz modeli, işletim sistemi, uygulama sürümü ve uygulamanın cihazdaki kopyasına özgü rastgele teknik kimlik (hesapla eşleştirilmez) |
+| Yasal metin onay kaydı | Hangi yasal metin sürümünün ne zaman onaylandığı: hesap, metnin sürümü, onay zamanı, kaynak (uygulama veya internet sitesi), uygulama sürümü ve son bölümü silinerek kısaltılmış IP adresi |
 | Pazarlama | İzin verilmesi hâlinde çerez ve kullanım tercihleri |
 
 ## 3. İşleme Amaçları ve Hukuki Sebepler
@@ -43,6 +46,7 @@ E-posta: kvkk@ucuzuburada.com
 | Hesap güvenliği, dolandırıcılık ve kötüye kullanımın önlenmesi, şikâyetlerin incelenmesi | Veri sorumlusunun meşru menfaati |
 | Yetkili makam taleplerinin karşılanması, muhasebe ve saklama yükümlülükleri | Hukuki yükümlülüğün yerine getirilmesi |
 | Uyuşmazlıklarda hakların tesisi, kullanılması ve korunması | Bir hakkın tesisi, kullanılması veya korunması |
+| Yasal metin onayının (hangi sürüm, ne zaman, hangi hesap) kaydının tutulması ve uyuşmazlıklarda ispat | Bir hakkın tesisi, kullanılması veya korunması; veri sorumlusunun meşru menfaati |
 | Uygulamanın geliştirilmesi ve hataların giderilmesi için, sizi tanıtmayan kullanım istatistiği (varsayılan açıktır; Profil → Kullanım istatistikleri anahtarıyla dilediğiniz an kapatılabilir) | Veri sorumlusunun meşru menfaati |
 | Konum bazlı sonuçlar, analiz çerezleri, kampanya bildirimleri | Açık rıza |
 
