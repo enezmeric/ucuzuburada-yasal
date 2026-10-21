@@ -1,12 +1,14 @@
 # Privacy Policy
 
-> Version 1 · in force from 2026-10-21 08:06 UTC
+> Version 2 · in force from 2026-10-21 08:06 UTC
 > 
-> SHA-256: `bd1608719415d3d6ed9ec3553f8d842107edf3fa855e732cbfee86b408eb1221`
+> SHA-256: `6653fab06ad321ca2306cdce0c101478f6e8e5370e7bad81b31f92b120d10136`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/5
+> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/31
 > 
 > Current text: https://ucuzuburada.com/en/privacy-policy
+> 
+> Change: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
 
 ---
 
@@ -34,6 +36,7 @@ This Privacy Policy explains how your personal data are collected, used, shared 
 - **Notification token:** the key assigned to your device to send you message and ad notifications (Firebase Cloud Messaging).
 - **Crash reports:** when the app closes unexpectedly or an error occurs: the device model, operating system and app version, and the technical details of the error (Firebase Crashlytics). These reports are not linked to your account and are used only to fix errors.
 - **Usage statistics:** events that do not identify you about which screens are opened and which features are used in the app (for example that a search was made and the word searched for, that an ad was viewed, the steps of posting an ad, sharing, adding to favourites); the device model, operating system, app version, language, an approximate location (country and city level) worked out from the IP address, and a random technical ID specific to this copy of the app on your device (Google Firebase Analytics). Personal details such as phone numbers, e-mail addresses and ad numbers are filtered out of the words searched for; your name, phone, e-mail, messages and account ID are not added to the statistics, and no advertising ID is collected. This data is not used to show ads or to follow you in other apps. Usage statistics are on by default; you can turn them off at any time with Profile → Usage statistics.
+- **Legal text acceptance record:** which version of the User Agreement and the Privacy Policy you accepted and when: your account, the version of the text you accepted, the time, whether the acceptance came from the app or the website, the app version, and your IP address in a shortened form (its last part removed). The record is kept so that, in case of a dispute, it can be proved which text you accepted and when, and it cannot be changed afterwards.
 - **Cookies and similar technologies:** see the Cookie Policy.
 
 ### 1.3 Information from third parties
@@ -51,6 +54,7 @@ This Privacy Policy explains how your personal data are collected, used, shared 
 - To answer support requests and complaints;
 - To improve the Platform, fix errors and produce statistics and usage analyses;
 - With your consent, to send promotions and announcements;
+- To record which legal text you accepted and when, so that it can be proved in a dispute;
 - To comply with our legal obligations and duly issued requests from competent authorities.
 
 ## 3. Public Information
@@ -76,6 +80,7 @@ Some of our service providers (Google, Apple, Microsoft and similar) may process
 - Account and ad information is kept while your account is open.
 - When you delete your account, your profile and ads are removed from publication and the account is closed. Identity, transaction, message and security records are kept securely for the applicable statutory limitation periods for possible disputes, fraud investigations and requests from authorities, and are then deleted or anonymised.
 - Purchase and accounting records are kept for the period required by tax and commercial legislation.
+- Legal text acceptance records (which version you accepted and when) are kept as proof in possible disputes for the applicable statutory limitation periods, even if you delete your account; they are then deleted or anonymised.
 - App crash reports are kept for up to 90 days.
 - Usage statistics in the app are kept in Google Firebase Analytics for up to 14 months.
 
