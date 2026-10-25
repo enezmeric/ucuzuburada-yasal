@@ -1,14 +1,14 @@
 # Gizlilik Politikası
 
-> Sürüm 2 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 3 · yürürlük 2026-10-25 14:44 UTC
 > 
-> SHA-256: `b8e0f1829efa3d1d6a73cdbb488e04f067c662bfa40f71b0856895b62202a5e8`
+> SHA-256: `dfa8c91d00ffee47b6e299cebf1bb71011f254e92a9f74c07ed96f6226efe88b`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/32
+> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/36
 > 
 > Güncel metin: https://ucuzuburada.com/privacy-policy
 > 
-> Değişiklik: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
+> Değişiklik: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
 
 ---
 
@@ -35,7 +35,7 @@ Bu Gizlilik Politikası, ucuzuburada.com internet sitesi ve Ucuzu Burada mobil u
 - **Konum bilgisi:** Konum iznine onay vermeniz hâlinde, çevrenizdeki ilanları göstermek ve ilan konumu seçimini kolaylaştırmak için yaklaşık veya kesin konum. Konum izni isteğe bağlıdır ve cihaz ayarlarınızdan kapatılabilir.
 - **Bildirim kimliği:** Size mesaj ve ilan bildirimleri gönderebilmek için cihazınıza atanan bildirim anahtarı (Firebase Cloud Messaging).
 - **Çökme raporları:** Uygulama beklenmedik şekilde kapandığında ya da bir hata oluştuğunda; cihaz modeli, işletim sistemi ve uygulama sürümü ile hatanın teknik ayrıntısı (Firebase Crashlytics). Bu raporlar hesabınızla eşleştirilmez ve yalnızca hataları gidermek için kullanılır.
-- **Kullanım istatistikleri:** Uygulamada hangi ekranların açıldığına ve hangi özelliklerin kullanıldığına ilişkin, sizi tanıtmayan olaylar (örneğin bir arama yapıldığı ve aranan kelime, bir ilanın görüntülendiği, ilan verme adımları, paylaşma, favorilere ekleme); cihaz modeli, işletim sistemi, uygulama sürümü, dil, IP adresinden çıkarılan yaklaşık (ülke ve şehir düzeyinde) konum ve uygulamanın cihazınızdaki kopyasına özgü rastgele bir teknik kimlik (Google Firebase Analytics). Aranan kelimelerden telefon numarası, e-posta ve ilan numarası gibi kişisel bilgiler ayıklanır; adınız, telefonunuz, e-postanız, mesajlarınız ve hesap kimliğiniz istatistiklere eklenmez, reklam kimliği toplanmaz. Bu veriler reklam göstermek veya sizi başka uygulamalarda izlemek için kullanılmaz. Kullanım istatistikleri varsayılan olarak açıktır; Profil → Kullanım istatistikleri anahtarından dilediğiniz an kapatabilirsiniz.
+- **Kullanım istatistikleri:** Uygulamada hangi ekranların açıldığına ve hangi özelliklerin kullanıldığına ilişkin, sizi tanıtmayan olaylar (örneğin bir arama yapıldığı ve aranan kelime, bir ilanın görüntülendiği, ilan verme adımları, paylaşma, favorilere ekleme); cihaz modeli, işletim sistemi, uygulama sürümü, dil, IP adresinden çıkarılan yaklaşık (ülke ve şehir düzeyinde) konum ve uygulamanın cihazınızdaki kopyasına özgü rastgele bir teknik kimlik (Google Firebase Analytics). Aranan kelimelerden telefon numarası, e-posta ve ilan numarası gibi kişisel bilgiler ayıklanır; adınız, telefonunuz, e-postanız, mesajlarınız ve hesap kimliğiniz istatistiklere eklenmez, reklam kimliği toplanmaz. Bu veriler reklam göstermek veya sizi başka uygulamalarda izlemek için kullanılmaz. Kullanım istatistikleri uygulamanın her kurulumunda toplanır.
 - **Yasal metin onay kaydı:** Kullanıcı Sözleşmesi'nin ve Gizlilik Politikası'nın hangi sürümünü ne zaman onayladığınız; hesabınız, onayladığınız metnin sürümü, onay zamanı, onayın uygulamadan mı internet sitesinden mi geldiği, uygulama sürümü ve IP adresinizin son bölümü silinerek kısaltılmış biçimi. Bu kayıt, olası bir uyuşmazlıkta hangi metni ne zaman kabul ettiğinizi ispat edebilmek için saklanır ve sonradan değiştirilemez.
 - **Çerezler ve benzeri teknolojiler:** Ayrıntılar için Çerez Politikası'na bakınız.
 
@@ -94,7 +94,7 @@ Verilerinizi yetkisiz erişim, kayıp ve kötüye kullanıma karşı korumak iç
 - Hesabınızı Profil sekmesinde profil kartındaki kalemle açılan Profili düzenle sayfasının en altındaki Hesabı Sil seçeneğiyle silebilirsiniz (bkz. Hesap Silme sayfası).
 - Konum, bildirim, kamera ve galeri izinlerini cihaz ayarlarınızdan yönetebilirsiniz.
 - İnternet sitesinde analiz çerezlerine verdiğiniz izni çerez bandından veya tarayıcı ayarlarınızdan değiştirebilirsiniz.
-- Uygulamadaki kullanım istatistiklerini Profil → Kullanım istatistikleri anahtarından dilediğiniz an kapatabilirsiniz; kapattığınızda cihazınızdaki istatistik kimliği de sıfırlanır.
+- Uygulamadaki kullanım istatistiklerine ilişkin itiraz ve silme taleplerinizi kvkk@ucuzuburada.com adresine iletebilirsiniz.
 - Kişisel verilerinize ilişkin yasal haklarınızı kullanmak için kvkk@ucuzuburada.com adresine başvurabilirsiniz (bkz. KVKK Aydınlatma Metni).
 
 ## 9. Çocuklar
