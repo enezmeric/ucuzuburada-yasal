@@ -1,14 +1,14 @@
 # Kişisel Verilerin Korunması Aydınlatma Metni
 
-> Sürüm 2 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 3 · yürürlük 2026-10-25 14:44 UTC
 > 
-> SHA-256: `e6f4506a119c8ba8b3c9d85a1b8716a440d2a650fc0e74106788b34651ed21f0`
+> SHA-256: `72a9ecf7e3942f29edecc1479b877539ca1629a423b6fdfdcdc7035b117ec9ea`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/34
+> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/38
 > 
 > Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni
 > 
-> Değişiklik: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
+> Değişiklik: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
 
 ---
 
@@ -47,7 +47,7 @@ E-posta: kvkk@ucuzuburada.com
 | Yetkili makam taleplerinin karşılanması, muhasebe ve saklama yükümlülükleri | Hukuki yükümlülüğün yerine getirilmesi |
 | Uyuşmazlıklarda hakların tesisi, kullanılması ve korunması | Bir hakkın tesisi, kullanılması veya korunması |
 | Yasal metin onayının (hangi sürüm, ne zaman, hangi hesap) kaydının tutulması ve uyuşmazlıklarda ispat | Bir hakkın tesisi, kullanılması veya korunması; veri sorumlusunun meşru menfaati |
-| Uygulamanın geliştirilmesi ve hataların giderilmesi için, sizi tanıtmayan kullanım istatistiği (varsayılan açıktır; Profil → Kullanım istatistikleri anahtarıyla dilediğiniz an kapatılabilir) | Veri sorumlusunun meşru menfaati |
+| Uygulamanın geliştirilmesi ve hataların giderilmesi için, sizi tanıtmayan kullanım istatistiği (uygulamanın her kurulumunda toplanır; itiraz için kvkk@ucuzuburada.com) | Veri sorumlusunun meşru menfaati |
 | Konum bazlı sonuçlar, analiz çerezleri, kampanya bildirimleri | Açık rıza |
 
 ## 4. Toplama Yöntemi
