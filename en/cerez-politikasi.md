@@ -1,12 +1,14 @@
 # Cookie Policy
 
-> Version 1 · in force from 2026-10-21 08:06 UTC
+> Version 2 · in force from 2026-10-25 14:44 UTC
 > 
-> SHA-256: `dc5143325d86c610549bd7a38db6fbc7f5f2d6195f0a39e2516430034c6b1c72`
+> SHA-256: `8271708e68c50d5568904034129860ce6e1f2a0baedfb319207c4b0584b1d45b`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/cerez-politikasi/21
+> This version: https://ucuzuburada.com/en/legal/versions/cerez-politikasi/39
 > 
 > Current text: https://ucuzuburada.com/en/pages/cerez-politikasi
+> 
+> Change: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
 
 ---
 
@@ -29,7 +31,7 @@ Cookies are small text files saved in your browser when you visit a website. In 
 
 Strictly necessary cookies are required for the site to work and are not subject to consent. Analytics and advertising cookies are used only if you accept them in the cookie banner.
 
-Our mobile apps use no advertising or tracking tools. To understand how the app is used and to fix errors, the app collects usage statistics that do not identify you, with Google Firebase Analytics (for example which screens are opened and which features are used). These statistics are not linked to your name, phone number, e-mail, messages or account; no advertising ID is used and the statistics are not used to personalise ads. Usage statistics are on by default; you can turn them off at any time with Profile → Usage statistics. Apart from that, the app stores on your device only the data it needs to work (session, language and location preference, list ordering key). The app shows no cookie consent window; you manage your choice from Profile as described above. Your device asks separately for permission to use location, notifications, the camera and photos.
+Our mobile apps use no advertising or tracking tools. To understand how the app is used and to fix errors, the app collects usage statistics that do not identify you, with Google Firebase Analytics (for example which screens are opened and which features are used). These statistics are not linked to your name, phone number, e-mail, messages or account; no advertising ID is used and the statistics are not used to personalise ads. Usage statistics are collected from every installation of the app; you can send objections and deletion requests to kvkk@ucuzuburada.com. Apart from that, the app stores on your device only the data it needs to work (session, language and location preference, list ordering key). The app shows no cookie consent window. Your device asks separately for permission to use location, notifications, the camera and photos.
 
 ## 3. Managing your preferences
 
