@@ -1,14 +1,14 @@
 # Privacy Policy
 
-> Version 2 · in force from 2026-10-21 08:06 UTC
+> Version 3 · in force from 2026-10-25 14:44 UTC
 > 
-> SHA-256: `6653fab06ad321ca2306cdce0c101478f6e8e5370e7bad81b31f92b120d10136`
+> SHA-256: `f4c0c5578e78abb7631a58cd8df93f16e49995a37aad20609282f4eb18d36ea3`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/31
+> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/35
 > 
 > Current text: https://ucuzuburada.com/en/privacy-policy
 > 
-> Change: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
+> Change: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
 
 ---
 
@@ -35,7 +35,7 @@ This Privacy Policy explains how your personal data are collected, used, shared 
 - **Location:** if you grant location permission, approximate or precise location to show nearby ads and make choosing an ad location easier. Location permission is optional and can be turned off in your device settings.
 - **Notification token:** the key assigned to your device to send you message and ad notifications (Firebase Cloud Messaging).
 - **Crash reports:** when the app closes unexpectedly or an error occurs: the device model, operating system and app version, and the technical details of the error (Firebase Crashlytics). These reports are not linked to your account and are used only to fix errors.
-- **Usage statistics:** events that do not identify you about which screens are opened and which features are used in the app (for example that a search was made and the word searched for, that an ad was viewed, the steps of posting an ad, sharing, adding to favourites); the device model, operating system, app version, language, an approximate location (country and city level) worked out from the IP address, and a random technical ID specific to this copy of the app on your device (Google Firebase Analytics). Personal details such as phone numbers, e-mail addresses and ad numbers are filtered out of the words searched for; your name, phone, e-mail, messages and account ID are not added to the statistics, and no advertising ID is collected. This data is not used to show ads or to follow you in other apps. Usage statistics are on by default; you can turn them off at any time with Profile → Usage statistics.
+- **Usage statistics:** events that do not identify you about which screens are opened and which features are used in the app (for example that a search was made and the word searched for, that an ad was viewed, the steps of posting an ad, sharing, adding to favourites); the device model, operating system, app version, language, an approximate location (country and city level) worked out from the IP address, and a random technical ID specific to this copy of the app on your device (Google Firebase Analytics). Personal details such as phone numbers, e-mail addresses and ad numbers are filtered out of the words searched for; your name, phone, e-mail, messages and account ID are not added to the statistics, and no advertising ID is collected. This data is not used to show ads or to follow you in other apps. Usage statistics are collected from every installation of the app.
 - **Legal text acceptance record:** which version of the User Agreement and the Privacy Policy you accepted and when: your account, the version of the text you accepted, the time, whether the acceptance came from the app or the website, the app version, and your IP address in a shortened form (its last part removed). The record is kept so that, in case of a dispute, it can be proved which text you accepted and when, and it cannot be changed afterwards.
 - **Cookies and similar technologies:** see the Cookie Policy.
 
@@ -94,7 +94,7 @@ We apply technical and organisational measures such as encrypted connections (HT
 - You can delete your account with Delete Account at the bottom of Edit profile (the pencil on your card in the Profile tab) (see the Delete Your Account page).
 - You can manage location, notification, camera and gallery permissions in your device settings.
 - On the website, you can change your consent to analytics cookies in the cookie banner or your browser settings.
-- You can turn off usage statistics in the app at any time with Profile → Usage statistics; when you do, the statistics ID on your device is reset too.
+- You can send objections and deletion requests about the usage statistics in the app to kvkk@ucuzuburada.com.
 - To exercise your legal rights regarding your personal data, write to kvkk@ucuzuburada.com (see the Personal Data Notice).
 
 ## 9. Children
