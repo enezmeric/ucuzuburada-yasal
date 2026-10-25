@@ -1,14 +1,14 @@
 # Personal Data Notice
 
-> Version 2 · in force from 2026-10-21 08:06 UTC
+> Version 3 · in force from 2026-10-25 14:44 UTC
 > 
-> SHA-256: `424393edf225c5bd4ada55357f0d4188a978a767d7c995f7faf50e6149946b17`
+> SHA-256: `96137f00618783aca0fa407ab7bef5148f9c297caac2a925c4264a2b7689cc91`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/33
+> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/37
 > 
 > Current text: https://ucuzuburada.com/en/pages/kvkk-aydinlatma-metni
 > 
-> Change: Yasal metin onay kaydı eklendi: hangi sürümü ne zaman onayladığınız hukuki ispat için saklanır. / Added: a record of which version you accepted and when is kept as legal proof.
+> Change: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
 
 ---
 
@@ -47,7 +47,7 @@ E-mail: kvkk@ucuzuburada.com
 | Responding to requests from authorities, accounting and retention obligations | Compliance with a legal obligation |
 | Establishing, exercising and defending rights in disputes | Establishment, exercise or defence of a right |
 | Keeping the record of which legal text you accepted (which version, when, which account) and proving it in disputes | Establishment, exercise or defence of a right; legitimate interest of the data controller |
-| Usage statistics that do not identify you, to improve the app and fix errors (on by default; can be turned off at any time with Profile → Usage statistics) | Legitimate interest of the data controller |
+| Usage statistics that do not identify you, to improve the app and fix errors (collected from every installation of the app; objections to kvkk@ucuzuburada.com) | Legitimate interest of the data controller |
 | Location-based results, analytics cookies, promotional notifications | Explicit consent |
 
 ## 4. Method of Collection
