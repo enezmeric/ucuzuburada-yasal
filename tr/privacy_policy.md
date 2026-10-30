@@ -1,14 +1,14 @@
 # Gizlilik Politikası
 
-> Sürüm 3 · yürürlük 2026-10-25 14:44 UTC
+> Sürüm 4 · yürürlük 2026-10-30 17:10 UTC
 > 
-> SHA-256: `dfa8c91d00ffee47b6e299cebf1bb71011f254e92a9f74c07ed96f6226efe88b`
+> SHA-256: `ca1e6517d2dac0f09a0f6bd356a7365702e16ef987801e53ee7c729b800ee800`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/36
+> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/44
 > 
 > Güncel metin: https://ucuzuburada.com/privacy-policy
 > 
-> Değişiklik: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
+> Değişiklik: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
 
 ---
 
@@ -41,7 +41,7 @@ Bu Gizlilik Politikası, ucuzuburada.com internet sitesi ve Ucuzu Burada mobil u
 
 ### 1.3 Üçüncü kişilerden gelen bilgiler
 
-- Google veya Apple ile giriş yaptığınızda ilgili hesabınızdan ad, e-posta ve profil fotoğrafı bilgileri;
+- Google, Apple veya Facebook ile giriş yaptığınızda ilgili hesabınızdan ad, e-posta ve profil fotoğrafı bilgileri (Facebook'tan yalnızca herkese açık profiliniz ve e-posta adresiniz alınır; sizin adınıza Facebook'ta hiçbir paylaşım yapılmaz);
 - Uygulama içi satın alımlarda Apple veya Google'dan gelen satın alma doğrulama bilgileri (işlem numarası, ürün, tarih, iade durumu; kart bilgileriniz bize iletilmez) ile hak bakiyeniz ve hak hareketleriniz.
 
 ## 2. Verileri Kullanma Amaçlarımız
@@ -73,7 +73,7 @@ Kişisel verilerinizi satmayız. Verileriniz yalnızca aşağıdaki durumlarda v
 
 ## 5. Yurt Dışına Aktarım
 
-Hizmet sağlayıcılarımızın bir kısmı (Google, Apple, Microsoft ve benzerleri) verileri KKTC dışındaki sunucularda işleyebilir. Bu aktarımlar, hizmetin sunulması için zorunlu olduğu ölçüde, sağlayıcıların veri koruma taahhütleri ve yeterli güvenlik önlemleri çerçevesinde yapılır. Platform'u kullanarak ve bu Politika'yı kabul ederek bu aktarımlara onay vermiş olursunuz.
+Hizmet sağlayıcılarımızın bir kısmı (Google, Apple, Meta, Microsoft ve benzerleri) verileri KKTC dışındaki sunucularda işleyebilir. Bu aktarımlar, hizmetin sunulması için zorunlu olduğu ölçüde, sağlayıcıların veri koruma taahhütleri ve yeterli güvenlik önlemleri çerçevesinde yapılır. Platform'u kullanarak ve bu Politika'yı kabul ederek bu aktarımlara onay vermiş olursunuz.
 
 ## 6. Saklama Süreleri
 
