@@ -1,12 +1,14 @@
 # Öne Çıkar ve Acil Hizmetleri Sözleşmesi
 
-> Sürüm 1 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 2 · yürürlük 2026-10-30 14:20 UTC
 > 
-> SHA-256: `3498f782f700cd5bafe8da3f5ef100df0d648c240f6d6c0f558ba3b2bfad448f`
+> SHA-256: `7034eb60c76ddd4fb60f12de7764ad65ff0eb26e0393a4c1eb94d8423ad31fe0`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/16
+> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/42
 > 
 > Güncel metin: https://ucuzuburada.com/pages/ucretli-hizmetler-sozlesmesi
+> 
+> Değişiklik: Öne çıkan ilanların sosyal medyada paylaşılması (kapatılabilir) ve satıldı işaretlenen ilanın kalan günlerinin iadesi eklendi; iadede başlamış gün kullanılmış sayılır. / Sharing featured ads on social media (can be turned off) and returning the unused days of an ad marked sold were added; the day under way counts as used in every return.
 
 ---
 
@@ -43,6 +45,7 @@ Platform'u kullanmak, ilan vermek ve ilanı yukarı taşımak ücretsizdir. İla
 1. Öne çıkarılan ilanlar, aynı yerleri paylaşan diğer öne çıkarılan ilanlarla dönüşümlü (sırayla) gösterilir. İşletmeci belirli bir sıra, konum, gösterim sayısı, tıklanma veya satış sonucu taahhüt etmez.
 2. Öne çıkarılan ilan yalnızca kendi kategorisi ve kullanıcının seçtiği filtreler (konum, fiyat, özellikler vb.) ile uyumlu listelerde gösterilir.
 3. İşletmeci; gösterim alanlarının yerini, sıklığını, görsel işaretleri ve sıralama yöntemini hizmetin özünü değiştirmemek kaydıyla değiştirebilir. İlan sahibine hikâyesinin kaç kez izlendiği bilgisi gösterilebilir.
+4. Öne çıkarılan ilanlar, İşletmeci'nin sosyal medya hesaplarında tanıtım amacıyla paylaşılabilir. Alıcı bunu istemezse Profili düzenle'deki "Öne çıkan ilanlarım sosyal medyada paylaşılabilir" ayarını kapatabilir.
 
 ## 6. Satın Alma ve Ödeme
 
@@ -53,8 +56,8 @@ Platform'u kullanmak, ilan vermek ve ilanı yukarı taşımak ücretsizdir. İla
 ## 7. İçerik Uygunluğu ve Kalan Günlerin İadesi
 
 1. Hizmet uygulanan ilanlar Kullanıcı Sözleşmesi, İlan Verme Kuralları ve Yasaklı Ürün ve Hizmetler Listesi'ne uygun olmalıdır.
-2. Hizmeti çalışan bir ilan otomatik kontroller veya İşletmeci tarafından incelemeye alınır ya da yayından kaldırılırsa hizmet durur ve kullanılmayan tam günler (yarım gün ve üstü tam gün sayılır) hak olarak Alıcı'nın hesabına geri yüklenir.
-3. Alıcı ilanı kendisi yayından kaldırır, satıldı olarak işaretler veya hesabını silerse hizmetin kalan süresi iade edilmez ve başka bir ilana aktarılmaz.
+2. Hizmeti çalışan bir ilan otomatik kontroller veya İşletmeci tarafından incelemeye alınır ya da yayından kaldırılırsa hizmet durur ve kalan tam günler hak olarak Alıcı'nın hesabına geri yüklenir; başlamış gün kullanılmış sayılır.
+3. Alıcı ilanı satıldı olarak işaretlerse hizmet durur ve kalan tam günler hak olarak hesabına geri yüklenir; işaretlendiği gün kullanılmış sayılır (örneğin 5 günlük öne çıkarmanın ilk gününde satılan ilana 4 gün geri yüklenir). Alıcı ilanı kendisi yayından kaldırır veya hesabını silerse hizmetin kalan süresi iade edilmez ve başka bir ilana aktarılmaz.
 
 ## 8. Cayma Hakkı ve İade
 
