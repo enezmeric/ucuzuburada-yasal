@@ -1,14 +1,14 @@
 # Çerez Politikası
 
-> Sürüm 2 · yürürlük 2026-10-25 14:44 UTC
+> Sürüm 3 · yürürlük 2026-10-30 21:10 UTC
 > 
-> SHA-256: `bc8819a4dba24340b8fc5ec14fef0a438859f4540643c1ce4041c606f7c4b400`
+> SHA-256: `70e1b5ee30d6e9f18dc3fd6d9821d6efc21f2daa991968a2078e947e2320bffc`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/cerez-politikasi/40
+> Bu sürüm: https://ucuzuburada.com/legal/versions/cerez-politikasi/48
 > 
-> Güncel metin: https://ucuzuburada.com/pages/cerez-politikasi
+> Güncel metin: https://ucuzuburada.com/pages/cerez-politikasi?lang=tr
 > 
-> Değişiklik: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
+> Değişiklik: Sitede reklam çerezi olmadığı ve çerez tercihinin "Çerez tercihleri" bağlantısından değiştirildiği yazıldı. / States that the site uses no advertising cookies and that the cookie choice is changed from the "Cookie preferences" link.
 
 ---
 
@@ -29,18 +29,18 @@ Bu politika, ucuzuburada.com internet sitesinde ve Ucuzu Burada mobil uygulamala
 | **Zorunlu** | Oturumunuzun açık kalması, dil ve konum tercihinizin hatırlanması, listelerin tutarlı sıralanması, güvenlik | Oturum anahtarı, dil, konum, liste sıralama anahtarı, çerez tercihi | Oturum süresince veya en fazla 1 yıl |
 | **Analiz** (izne bağlı) | Sitenin nasıl kullanıldığını anlamak, hataları gidermek ve deneyimi iyileştirmek | Google Firebase Analytics, Microsoft Clarity | Sağlayıcının belirlediği süre, en fazla 2 yıl |
 
-Zorunlu çerezler sitenin çalışması için gereklidir ve izne tabi değildir. Analiz ve reklam çerezleri yalnızca çerez bandından onay vermeniz hâlinde kullanılır.
+Zorunlu çerezler sitenin çalışması için gereklidir ve izne tabi değildir. Analiz çerezleri yalnızca çerez bandından onay vermeniz hâlinde kullanılır. Sitede reklam çerezi kullanılmaz.
 
 Mobil uygulamalarımızda reklam veya kullanıcı takibi aracı kullanılmaz. Uygulama, nasıl kullanıldığını anlamak ve hataları gidermek için Google Firebase Analytics ile kimliksiz kullanım istatistiği toplar (örneğin hangi ekranların açıldığı, hangi özelliklerin kullanıldığı). Bu istatistikler adınıza, telefon numaranıza, e-postanıza, mesajlarınıza veya hesabınıza bağlanmaz; reklam kimliği kullanılmaz ve istatistikler reklam kişiselleştirme için kullanılmaz. Kullanım istatistiği uygulamanın her kurulumunda toplanır; itiraz ve silme talepleriniz için kvkk@ucuzuburada.com adresine yazabilirsiniz. Bunun dışında uygulama cihazınızda yalnızca çalışması için gereken verileri (oturum, dil ve konum tercihi, liste sıralama anahtarı) saklar. Uygulamada çerez izni penceresi çıkmaz. Konum, bildirim, kamera ve fotoğraf erişimi için izni cihazınız ayrıca sorar.
 
 ## 3. Tercihlerinizi yönetme
 
-- İnternet sitesinde çerez bandı üzerinden izin verebilir veya reddedebilirsiniz. Verdiğiniz izni tarayıcınızdaki site verilerini silerek sıfırlayabilirsiniz.
+- İnternet sitesinde çerez bandı üzerinden izin verebilir veya reddedebilirsiniz. Kararınızı istediğiniz zaman sayfanın altındaki ve Yasal Bilgiler sayfasındaki “Çerez tercihleri” bağlantısından değiştirebilirsiniz; izni geri aldığınızda analiz çerezleri cihazınızdan silinir.
 - Tarayıcınızın ayarlarından çerezleri engelleyebilir veya silebilirsiniz; bu durumda sitenin bazı bölümleri düzgün çalışmayabilir.
 
 ## 4. Üçüncü taraf sağlayıcılar
 
-Analiz ve reklam çerezleri ilgili sağlayıcıların kendi gizlilik politikalarına tabidir: Google (policies.google.com/privacy), Microsoft (privacy.microsoft.com).
+Analiz çerezleri ilgili sağlayıcıların kendi gizlilik politikalarına tabidir: Google (policies.google.com/privacy), Microsoft (privacy.microsoft.com).
 
 ## 5. İletişim
 
