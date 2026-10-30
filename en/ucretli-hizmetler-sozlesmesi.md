@@ -1,12 +1,14 @@
 # Featured and Urgent Services Agreement
 
-> Version 1 · in force from 2026-10-21 08:06 UTC
+> Version 2 · in force from 2026-10-30 14:20 UTC
 > 
-> SHA-256: `273134e07da05b10d947f97ca28d184a04f128752562722ffc38647b3a516ea4`
+> SHA-256: `f902423f4dbcea47732430d9330fc20bbad59b0caac22db96d4225f8f5b16457`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/15
+> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/41
 > 
 > Current text: https://ucuzuburada.com/en/pages/ucretli-hizmetler-sozlesmesi
+> 
+> Change: Öne çıkan ilanların sosyal medyada paylaşılması (kapatılabilir) ve satıldı işaretlenen ilanın kalan günlerinin iadesi eklendi; iadede başlamış gün kullanılmış sayılır. / Sharing featured ads on social media (can be turned off) and returning the unused days of an ad marked sold were added; the day under way counts as used in every return.
 
 ---
 
@@ -43,6 +45,7 @@ Using the Platform, posting ads and bumping an ad up are free. There are two pai
 1. Featured ads are shown in rotation with the other featured ads sharing the same places. The Operator does not promise any particular position, place, number of views, clicks or sale.
 2. A featured ad is shown only in lists that match its category and the filters chosen by the user (location, price, features, etc.).
 3. The Operator may change the placement, frequency, visual markers and ordering method of the display areas without changing the essence of the service. The ad owner may be shown how many times their story was watched.
+4. Featured ads may be shared on the Operator's social media accounts for promotion. A Buyer who does not want this can turn off the "My featured ads may be shared on social media" setting in Edit profile.
 
 ## 6. Purchase and Payment
 
@@ -53,8 +56,8 @@ Using the Platform, posting ads and bumping an ad up are free. There are two pai
 ## 7. Content Compliance and Return of Unused Days
 
 1. Ads using the services must comply with the User Agreement, the Listing Rules and the Prohibited Items and Services List.
-2. If an ad with a running service is taken into review or removed by the automatic checks or by the Operator, the service stops and the unused full days (half a day or more counts as a full day) are returned to the Buyer's account as credits.
-3. If the Buyer removes the ad, marks it as sold or deletes their account, the remaining time is not refunded and cannot be moved to another ad.
+2. If an ad with a running service is taken into review or removed by the automatic checks or by the Operator, the service stops and the remaining full days are returned to the Buyer's account as credits; the day under way counts as used.
+3. If the Buyer marks the ad as sold, the service stops and the remaining full days are returned to their account as credits; the day it is marked counts as used (for example, an ad sold on the first day of a 5-day feature gets 4 days back). If the Buyer removes the ad or deletes their account, the remaining time is not refunded and cannot be moved to another ad.
 
 ## 8. Right of Withdrawal and Refunds
 
