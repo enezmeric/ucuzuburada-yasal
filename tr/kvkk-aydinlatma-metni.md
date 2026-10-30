@@ -1,14 +1,14 @@
 # Kişisel Verilerin Korunması Aydınlatma Metni
 
-> Sürüm 3 · yürürlük 2026-10-25 14:44 UTC
+> Sürüm 4 · yürürlük 2026-10-30 17:10 UTC
 > 
-> SHA-256: `72a9ecf7e3942f29edecc1479b877539ca1629a423b6fdfdcdc7035b117ec9ea`
+> SHA-256: `2ac69514e671a6dd1abb0705a430c88ed5105141c5e5beab75aa76057bce83d0`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/38
+> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/46
 > 
 > Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni
 > 
-> Değişiklik: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
+> Değişiklik: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
 
 ---
 
@@ -52,11 +52,11 @@ E-posta: kvkk@ucuzuburada.com
 
 ## 4. Toplama Yöntemi
 
-Kişisel veriler; Platform'daki üyelik, ilan, mesajlaşma, satın alma ve başvuru formları aracılığıyla doğrudan sizden, Google veya Apple ile girişte ilgili hesaptan, çerezler, uygulamadaki kullanım istatistiği ve cihaz izinleri aracılığıyla elektronik ortamda otomatik yollarla toplanır.
+Kişisel veriler; Platform'daki üyelik, ilan, mesajlaşma, satın alma ve başvuru formları aracılığıyla doğrudan sizden, Google, Apple veya Facebook ile girişte ilgili hesaptan, çerezler, uygulamadaki kullanım istatistiği ve cihaz izinleri aracılığıyla elektronik ortamda otomatik yollarla toplanır.
 
 ## 5. Aktarım
 
-Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü, harita, analiz ve e-posta/SMS hizmeti aldığımız tedarikçilere (Google, Apple, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
+Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü, harita, analiz ve e-posta/SMS hizmeti aldığımız tedarikçilere (Google, Apple, Meta, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
 
 ## 6. Saklama Süresi
 
