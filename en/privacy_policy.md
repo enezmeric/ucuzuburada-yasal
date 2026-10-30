@@ -1,14 +1,14 @@
 # Privacy Policy
 
-> Version 3 · in force from 2026-10-25 14:44 UTC
+> Version 4 · in force from 2026-10-30 17:10 UTC
 > 
-> SHA-256: `f4c0c5578e78abb7631a58cd8df93f16e49995a37aad20609282f4eb18d36ea3`
+> SHA-256: `1dae0df0a95e396c00fccc3bdd7b99402e8cdb6b349fdfd0c5994aaf863a868b`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/35
+> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/43
 > 
 > Current text: https://ucuzuburada.com/en/privacy-policy
 > 
-> Change: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
+> Change: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
 
 ---
 
@@ -41,7 +41,7 @@ This Privacy Policy explains how your personal data are collected, used, shared 
 
 ### 1.3 Information from third parties
 
-- When you sign in with Google or Apple, your name, e-mail and profile photo from that account;
+- When you sign in with Google, Apple or Facebook, your name, e-mail and profile photo from that account (from Facebook only your public profile and e-mail address; nothing is ever posted on Facebook on your behalf);
 - For in-app purchases, purchase verification information from Apple or Google (transaction number, product, date, refund status; your card details are not passed to us), together with your credit balance and credit history.
 
 ## 2. How We Use Data
@@ -73,7 +73,7 @@ We do not sell your personal data. Data are shared only in the following cases a
 
 ## 5. International Transfers
 
-Some of our service providers (Google, Apple, Microsoft and similar) may process data on servers outside the TRNC. Such transfers are made only as far as necessary to provide the service, under the providers' data protection commitments and adequate safeguards. By using the Platform and accepting this Policy you consent to these transfers.
+Some of our service providers (Google, Apple, Meta, Microsoft and similar) may process data on servers outside the TRNC. Such transfers are made only as far as necessary to provide the service, under the providers' data protection commitments and adequate safeguards. By using the Platform and accepting this Policy you consent to these transfers.
 
 ## 6. Retention
 
