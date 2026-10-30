@@ -1,14 +1,14 @@
 # Personal Data Notice
 
-> Version 3 · in force from 2026-10-25 14:44 UTC
+> Version 4 · in force from 2026-10-30 17:10 UTC
 > 
-> SHA-256: `96137f00618783aca0fa407ab7bef5148f9c297caac2a925c4264a2b7689cc91`
+> SHA-256: `6f619c8ab90e11b0507abab2377b1f6de09d5399c4e3a7f76327e21eb1c47d0a`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/37
+> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/45
 > 
 > Current text: https://ucuzuburada.com/en/pages/kvkk-aydinlatma-metni
 > 
-> Change: Uygulamadaki kullanım istatistiği anahtarı kaldırıldı: kimliksiz kullanım istatistikleri her kurulumda toplanır; itiraz ve silme için kvkk@ucuzuburada.com. / The usage statistics switch was removed from the app: anonymous usage statistics are collected from every installation; objections and deletion requests go to kvkk@ucuzuburada.com.
+> Change: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
 
 ---
 
@@ -52,11 +52,11 @@ E-mail: kvkk@ucuzuburada.com
 
 ## 4. Method of Collection
 
-Personal data are collected electronically: directly from you through the Platform's registration, ad, messaging, purchase and application forms; from your Google or Apple account when you sign in with it; and automatically through cookies, usage statistics in the app and device permissions.
+Personal data are collected electronically: directly from you through the Platform's registration, ad, messaging, purchase and application forms; from your Google, Apple or Facebook account when you sign in with it; and automatically through cookies, usage statistics in the app and device permissions.
 
 ## 5. Transfers
 
-Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks, mapping, analytics and e-mail/SMS services (Google, Apple, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
+Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks, mapping, analytics and e-mail/SMS services (Google, Apple, Meta, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
 
 ## 6. Retention Period
 
