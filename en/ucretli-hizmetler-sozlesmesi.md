@@ -1,14 +1,14 @@
 # Featured and Urgent Services Agreement
 
-> Version 3 · in force from 2026-10-31 04:37 UTC
+> Version 4 · in force from 2026-10-31 05:04 UTC
 > 
-> SHA-256: `a755a04913920a06329029a6cec3119a4c0bafa2801bea25efee01ebc8cdc641`
+> SHA-256: `5f3e95f4f2c10269c3b54a72c23d126222e5ce16fdf0d102c38dd8523376b2f8`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/49
+> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/51
 > 
 > Current text: https://ucuzuburada.com/en/pages/ucretli-hizmetler-sozlesmesi
 > 
-> Change: Abonelik eklendi: her gün hesaba yazılan haklar 45 gün geçerli, önce en eski hak kullanılır; paketler kalktı, haklar tek tek ya da abonelikle alınır. / Subscriptions added: daily credits last 45 days and the oldest is used first; packs were replaced by single credits and subscriptions.
+> Change: Haklar 5 ve 10'luk paketlerle de satılıyor; paketle alınan haklar da süresiz. / Credits are also sold in packs of 5 and 10; pack credits never expire either.
 
 ---
 
@@ -30,8 +30,8 @@ Using the Platform, posting ads and bumping an ad up are free. There are two pai
 ## 3. Credits
 
 1. The services are sold as "credits". Each credit runs the service on one ad for 24 hours. In one go, credits may be used on one or more ads, from 1 to 30 days each; adding credits to a running service extends it.
-2. Credits are sold singly or by subscription (section 12); contents and price are shown on the purchase screen.
-3. Credits bought singly never expire, stay on the account until used and can be used in the Android and iPhone apps when signed in with the same account. Credits cannot be transferred to another account or exchanged for cash.
+2. Credits are sold singly, in packs of 5 and 10, or by subscription (section 12); contents and price are shown on the purchase screen.
+3. Credits bought singly or in packs never expire, stay on the account until used and can be used in the Android and iPhone apps when signed in with the same account. Credits cannot be transferred to another account or exchanged for cash.
 4. Credits can be used only on the Buyer's own live ads.
 
 ## 4. Campaigns and Gift Credits
