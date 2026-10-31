@@ -1,14 +1,14 @@
 # Öne Çıkar ve Acil Hizmetleri Sözleşmesi
 
-> Sürüm 2 · yürürlük 2026-10-30 14:20 UTC
+> Sürüm 3 · yürürlük 2026-10-31 04:37 UTC
 > 
-> SHA-256: `7034eb60c76ddd4fb60f12de7764ad65ff0eb26e0393a4c1eb94d8423ad31fe0`
+> SHA-256: `5bc4c3a20c42ecbd40140100ffbedcc95db916a37b469f91456741b6964f0ce2`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/42
+> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/50
 > 
-> Güncel metin: https://ucuzuburada.com/pages/ucretli-hizmetler-sozlesmesi
+> Güncel metin: https://ucuzuburada.com/pages/ucretli-hizmetler-sozlesmesi?lang=tr
 > 
-> Değişiklik: Öne çıkan ilanların sosyal medyada paylaşılması (kapatılabilir) ve satıldı işaretlenen ilanın kalan günlerinin iadesi eklendi; iadede başlamış gün kullanılmış sayılır. / Sharing featured ads on social media (can be turned off) and returning the unused days of an ad marked sold were added; the day under way counts as used in every return.
+> Değişiklik: Abonelik eklendi: her gün hesaba yazılan haklar 45 gün geçerli, önce en eski hak kullanılır; paketler kalktı, haklar tek tek ya da abonelikle alınır. / Subscriptions added: daily credits last 45 days and the oldest is used first; packs were replaced by single credits and subscriptions.
 
 ---
 
@@ -30,8 +30,8 @@ Platform'u kullanmak, ilan vermek ve ilanı yukarı taşımak ücretsizdir. İla
 ## 3. Haklar
 
 1. Hizmetler "hak" olarak satılır. Her hak, bir ilanda ilgili hizmeti 24 saat çalıştırır. Bir harcamada bir veya birden fazla ilana, her biri için 1 ila 30 gün arasında hak kullanılabilir; çalışan bir hizmete hak eklendiğinde süre uzar.
-2. Haklar tek tek veya paketler hâlinde (ör. Başlangıç, Hızlı Satış, Vitrin) satılır; paketlerin içeriği ve fiyatı satın alma ekranında gösterilir.
-3. Hesaba tanımlanan haklar süresizdir, kullanılana kadar hesapta kalır ve aynı hesapla giriş yapılan Android ve iPhone uygulamalarında kullanılabilir. Haklar başka bir hesaba devredilemez, nakde çevrilemez.
+2. Haklar tek tek veya abonelikle satılır (12. madde); içerik ve fiyat satın alma ekranında gösterilir.
+3. Tek tek satın alınan haklar süresizdir, kullanılana kadar hesapta kalır ve aynı hesapla giriş yapılan Android ve iPhone uygulamalarında kullanılabilir. Haklar başka bir hesaba devredilemez, nakde çevrilemez.
 4. Haklar yalnızca Alıcı'nın kendi yayındaki ilanlarında kullanılabilir.
 
 ## 4. Kampanyalar ve Hediye Haklar
@@ -78,6 +78,15 @@ Hizmetlerin başka Kullanıcılar'ı yanıltacak şekilde kullanılması (örne�
 
 Ana sayfa ve kategori sayfalarındaki banner reklam alanları bu Sözleşme kapsamında değildir ve uygulama içinden satılmaz. Bu alanlar, reklam@ucuzuburada.com aracılığıyla görüşülen ve ayrı bir yazılı sözleşmeyle düzenlenen kurumsal reklam hizmetleridir.
 
-## 12. Değişiklikler, Uygulanacak Hukuk ve Yetki
+## 12. Abonelik ve Süreli Haklar
+
+1. Abonelikte, abonelik sürdüğü her gün (Kıbrıs saatiyle) seçilen paketin öne çıkarma ve acil hakları Alıcı'nın hesabına yazılır. Pro ve üstü paketlerde Alıcı'nın yayındaki ilanları ayrıca günde bir kez yukarı taşınır.
+2. Abonelikle yazılan her günün hakları yazıldığı andan itibaren 45 gün geçerlidir; bu sürede kullanılmayanlar düşer. İşletmeci'nin süre belirterek hediye ettiği haklar da belirtilen sürede kullanılmalıdır.
+3. Hak kullanılırken önce süresi en erken dolacak hak, en son süresiz haklar kullanılır.
+4. Abonelik Apple App Store veya Google Play üzerinden alınır ve dönem bitiminden en az 24 saat önce iptal edilmezse aynı fiyattan kendiliğinden yenilenir. Yönetim ve iptal ilgili mağaza hesabının abonelikler bölümünden yapılır; iptal, içinde bulunulan dönemin sonunda geçerli olur. Abonelik bitse de yazılmış haklar kendi sürelerince kullanılabilir.
+5. Mağaza bir aboneliği iade ederse o aboneliğin kullanılmamış hakları silinir; kullanılanlar kadar çalışan hizmet kısaltılır.
+6. İşletmeci bir kullanıcıya belirli bir süre için ücretsiz abonelik tanımlayabilir; bu abonelik süre sonunda kendiliğinden biter ve yenilenmez.
+
+## 13. Değişiklikler, Uygulanacak Hukuk ve Yetki
 
 İşletmeci, hizmetlerin kapsamını, paketleri ve fiyatları ileriye dönük olarak değiştirebilir; hesaba tanımlanmış haklar korunur. Bu Sözleşme KKTC hukukuna tabidir; uyuşmazlıklarda Lefkoşa Mahkemeleri ve İcra Daireleri yetkilidir. Tüketici mevzuatından doğan haklar saklıdır.
