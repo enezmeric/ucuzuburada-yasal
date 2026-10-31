@@ -1,14 +1,14 @@
 # Öne Çıkar ve Acil Hizmetleri Sözleşmesi
 
-> Sürüm 3 · yürürlük 2026-10-31 04:37 UTC
+> Sürüm 4 · yürürlük 2026-10-31 05:04 UTC
 > 
-> SHA-256: `5bc4c3a20c42ecbd40140100ffbedcc95db916a37b469f91456741b6964f0ce2`
+> SHA-256: `4fa1183c5a68704608f4d5655dad0a61a326f2dc13a3a5963cd30f7dd9920aec`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/50
+> Bu sürüm: https://ucuzuburada.com/legal/versions/ucretli-hizmetler-sozlesmesi/52
 > 
 > Güncel metin: https://ucuzuburada.com/pages/ucretli-hizmetler-sozlesmesi?lang=tr
 > 
-> Değişiklik: Abonelik eklendi: her gün hesaba yazılan haklar 45 gün geçerli, önce en eski hak kullanılır; paketler kalktı, haklar tek tek ya da abonelikle alınır. / Subscriptions added: daily credits last 45 days and the oldest is used first; packs were replaced by single credits and subscriptions.
+> Değişiklik: Haklar 5 ve 10'luk paketlerle de satılıyor; paketle alınan haklar da süresiz. / Credits are also sold in packs of 5 and 10; pack credits never expire either.
 
 ---
 
@@ -30,8 +30,8 @@ Platform'u kullanmak, ilan vermek ve ilanı yukarı taşımak ücretsizdir. İla
 ## 3. Haklar
 
 1. Hizmetler "hak" olarak satılır. Her hak, bir ilanda ilgili hizmeti 24 saat çalıştırır. Bir harcamada bir veya birden fazla ilana, her biri için 1 ila 30 gün arasında hak kullanılabilir; çalışan bir hizmete hak eklendiğinde süre uzar.
-2. Haklar tek tek veya abonelikle satılır (12. madde); içerik ve fiyat satın alma ekranında gösterilir.
-3. Tek tek satın alınan haklar süresizdir, kullanılana kadar hesapta kalır ve aynı hesapla giriş yapılan Android ve iPhone uygulamalarında kullanılabilir. Haklar başka bir hesaba devredilemez, nakde çevrilemez.
+2. Haklar tek tek, 5 ve 10'luk paketlerle veya abonelikle satılır (12. madde); içerik ve fiyat satın alma ekranında gösterilir.
+3. Tek tek veya paketle satın alınan haklar süresizdir, kullanılana kadar hesapta kalır ve aynı hesapla giriş yapılan Android ve iPhone uygulamalarında kullanılabilir. Haklar başka bir hesaba devredilemez, nakde çevrilemez.
 4. Haklar yalnızca Alıcı'nın kendi yayındaki ilanlarında kullanılabilir.
 
 ## 4. Kampanyalar ve Hediye Haklar
