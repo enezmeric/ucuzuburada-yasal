@@ -1,14 +1,14 @@
 # Featured and Urgent Services Agreement
 
-> Version 2 · in force from 2026-10-30 14:20 UTC
+> Version 3 · in force from 2026-10-31 04:37 UTC
 > 
-> SHA-256: `f902423f4dbcea47732430d9330fc20bbad59b0caac22db96d4225f8f5b16457`
+> SHA-256: `a755a04913920a06329029a6cec3119a4c0bafa2801bea25efee01ebc8cdc641`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/41
+> This version: https://ucuzuburada.com/en/legal/versions/ucretli-hizmetler-sozlesmesi/49
 > 
 > Current text: https://ucuzuburada.com/en/pages/ucretli-hizmetler-sozlesmesi
 > 
-> Change: Öne çıkan ilanların sosyal medyada paylaşılması (kapatılabilir) ve satıldı işaretlenen ilanın kalan günlerinin iadesi eklendi; iadede başlamış gün kullanılmış sayılır. / Sharing featured ads on social media (can be turned off) and returning the unused days of an ad marked sold were added; the day under way counts as used in every return.
+> Change: Abonelik eklendi: her gün hesaba yazılan haklar 45 gün geçerli, önce en eski hak kullanılır; paketler kalktı, haklar tek tek ya da abonelikle alınır. / Subscriptions added: daily credits last 45 days and the oldest is used first; packs were replaced by single credits and subscriptions.
 
 ---
 
@@ -30,8 +30,8 @@ Using the Platform, posting ads and bumping an ad up are free. There are two pai
 ## 3. Credits
 
 1. The services are sold as "credits". Each credit runs the service on one ad for 24 hours. In one go, credits may be used on one or more ads, from 1 to 30 days each; adding credits to a running service extends it.
-2. Credits are sold singly or in packs (e.g. Starter, Quick Sale, Showcase); the contents and price of each pack are shown on the purchase screen.
-3. Credits added to an account never expire, stay on the account until used and can be used in the Android and iPhone apps when signed in with the same account. Credits cannot be transferred to another account or exchanged for cash.
+2. Credits are sold singly or by subscription (section 12); contents and price are shown on the purchase screen.
+3. Credits bought singly never expire, stay on the account until used and can be used in the Android and iPhone apps when signed in with the same account. Credits cannot be transferred to another account or exchanged for cash.
 4. Credits can be used only on the Buyer's own live ads.
 
 ## 4. Campaigns and Gift Credits
@@ -78,6 +78,15 @@ The Operator does not guarantee that a service will result in a sale, rental or 
 
 Banner advertising spaces on the home screen and category pages are not covered by this Agreement and are not sold in the app. They are business advertising services arranged through reklam@ucuzuburada.com and governed by a separate written agreement.
 
-## 12. Changes, Governing Law and Jurisdiction
+## 12. Subscriptions and Timed Credits
+
+1. With a subscription, on every day it runs (Cyprus time) the chosen plan's Featured and Urgent credits are added to the Buyer's account. On Pro and higher plans the Buyer's live ads are also moved up once a day.
+2. Each day's subscription credits are valid for 45 days from when they are added; those not used by then expire. Credits the Operator gives as a gift with a stated period must also be used within that period.
+3. When credits are used, the one that expires soonest is used first and credits that never expire are used last.
+4. Subscriptions are bought through the Apple App Store or Google Play and renew automatically at the same price unless cancelled at least 24 hours before the period ends. They are managed and cancelled in the subscriptions section of the store account; cancellation takes effect at the end of the current period. Credits already added stay usable for their own validity after the subscription ends.
+5. If the store refunds a subscription, its unused credits are removed and running services are shortened by the credits used.
+6. The Operator may give a user a free subscription for a stated period; it ends by itself and does not renew.
+
+## 13. Changes, Governing Law and Jurisdiction
 
 The Operator may change the scope of the services, the packs and the prices for the future; credits already on an account are preserved. This Agreement is governed by TRNC law; the Courts and Enforcement Offices of Lefkoşa (Nicosia) have jurisdiction over disputes. Statutory consumer rights are reserved.
