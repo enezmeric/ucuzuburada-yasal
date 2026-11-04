@@ -1,12 +1,14 @@
 # User Agreement
 
-> Version 1 · in force from 2026-10-21 08:06 UTC
+> Version 2 · in force from 2026-11-04 00:27 UTC
 > 
-> SHA-256: `0d835d27c157f6346b66de189880d0ee09739624d264b6b354ef3f8f07357623`
+> SHA-256: `269b74f15c4e3d7fcc80fb34257755a7b2e5ff2868ed0e0a5c5fb959fd7fa58a`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/terms-and-condition/9
+> This version: https://ucuzuburada.com/en/legal/versions/terms-and-condition/55
 > 
 > Current text: https://ucuzuburada.com/en/terms-and-condition
+> 
+> Change: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -57,11 +59,12 @@ This Agreement sets out the terms on which the User may use the Platform and the
 2. The number of ads a User may keep active at the same time is limited according to their profile type. Current limits are shown when posting an ad. A User who reaches the limit may deactivate an existing ad or verify their profile to raise the limit.
 3. Users confirm that they own, or are entitled to use, the text, photos and videos in their ads and that such content does not infringe any third-party intellectual property, personality or other rights.
 4. Users grant the Operator a worldwide, royalty-free, non-exclusive licence to publish, reproduce, translate and use their content on the Platform, in search engines and in promoting the Platform, for as long as the ad is published and for a reasonable archiving period thereafter.
-5. The Platform may use AI-assisted tools to translate ad titles and descriptions, generate summaries for search engines and, on request, suggest ad descriptions. Suggestions are reviewed by the User, who remains responsible for the final content.
-6. Ads go live without waiting for approval; they pass automatic (AI-assisted) checks when they go live and for as long as they stay published. Phone numbers, e-mail addresses, IBANs, web links, social media handles and profanity in the title and description are hidden automatically when the ad is saved.
-7. The Operator may take into review, remove, re-categorise, request corrections to or technically edit ads that may breach the rules. Aware that automatic checks can make mistakes, a User whose ad is taken into review may contact destek@ucuzuburada.com.
-8. Users may bump their ads up for free at intervals set according to their profile type.
-9. Ads for items that have been sold or rented or are no longer available must be removed by the User.
+5. The Platform may use AI-assisted tools to translate ad titles and descriptions, generate summaries for search engines and, on request, suggest ad descriptions. Photos uploaded while posting an ad may also be reviewed by automated systems, including AI, before the ad is published, to suggest a title, category and features. Suggestions are not binding and are reviewed by the User, who remains responsible for the final content.
+6. A contact number the User types on an ad is not verified by SMS and is shown marked “not verified”. The User may not enter someone else's number; it may be hidden if its owner reports it.
+7. Ads go live without waiting for approval; they pass automatic (AI-assisted) checks when they go live and for as long as they stay published. Phone numbers, e-mail addresses, IBANs, web links, social media handles and profanity in the title and description are hidden automatically when the ad is saved.
+8. The Operator may take into review, remove, re-categorise, request corrections to or technically edit ads that may breach the rules. Aware that automatic checks can make mistakes, a User whose ad is taken into review may contact destek@ucuzuburada.com.
+9. Users may bump their ads up for free at intervals set according to their profile type.
+10. Ads for items that have been sold or rented or are no longer available must be removed by the User.
 
 ## 7. Messaging and Contact
 
