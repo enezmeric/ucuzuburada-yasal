@@ -1,12 +1,14 @@
 # Kullanıcı Sözleşmesi
 
-> Sürüm 1 · yürürlük 2026-10-21 08:06 UTC
+> Sürüm 2 · yürürlük 2026-11-04 00:27 UTC
 > 
-> SHA-256: `defcb2fd60db0c8115bcf2058eae0f1a0195c83034faedaf081072bd79c02f50`
+> SHA-256: `5236d44fb2e4fd0a8d450832e08df3ab548fd8a845f7a9da6292ddb64d81503b`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/terms-and-condition/10
+> Bu sürüm: https://ucuzuburada.com/legal/versions/terms-and-condition/56
 > 
-> Güncel metin: https://ucuzuburada.com/terms-and-condition
+> Güncel metin: https://ucuzuburada.com/terms-and-condition?lang=tr
+> 
+> Değişiklik: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -57,11 +59,12 @@ Sözleşme'nin konusu, Kullanıcı'nın Platform'dan yararlanma koşullarının 
 2. Kullanıcı'nın profiline göre aynı anda yayında tutabileceği ilan sayısı sınırlıdır. Güncel sınırlar Platform'da ilan verme adımında gösterilir. Sınıra ulaşan Kullanıcı, yeni ilan için mevcut ilanlarından birini yayından kaldırabilir veya profilini doğrulayarak sınırını artırabilir.
 3. Kullanıcı, ilanda kullandığı metin, fotoğraf ve videoların kendisine ait olduğunu veya bunları kullanma hakkına sahip olduğunu; bu içeriklerin üçüncü kişilerin fikri mülkiyet, kişilik veya diğer haklarını ihlal etmediğini beyan eder.
 4. Kullanıcı, yüklediği içerikleri Platform'da yayınlamak, çoğaltmak, başka dillere çevirmek, arama motorlarında ve Platform'un tanıtımında kullanmak üzere İşletmeci'ye dünya çapında, ücretsiz, münhasır olmayan ve ilanın yayında kaldığı süre ile yayından kalkmasından sonraki makul arşiv süresi boyunca geçerli bir kullanım izni verir.
-5. Platform, ilan başlık ve açıklamalarını yapay zekâ destekli araçlarla başka dillere çevirebilir, arama motorları için özet bilgiler üretebilir ve Kullanıcı'nın talebi hâlinde ilan açıklaması önerisi sunabilir. Öneriler Kullanıcı tarafından kontrol edilerek kullanılır; nihai içerikten Kullanıcı sorumludur.
-6. İlanlar onay beklemeden yayına girer; yayına girerken ve yayında kaldıkları sürece otomatik (yapay zekâ destekli) kontrollerden geçer. Başlık ve açıklamadaki telefon numarası, e-posta adresi, IBAN, internet bağlantısı, sosyal medya hesabı ve küfür içeren ifadeler kaydedilirken otomatik olarak gizlenir.
-7. İşletmeci; kurallara aykırı olabileceği değerlendirilen ilanları incelemeye alma, yayından kaldırma, kategorisini değiştirme, düzeltme talep etme veya içerikte teknik düzenleme yapma hakkına sahiptir. Otomatik kontrollerin hata yapabileceğini bilen Kullanıcı, incelemeye alınan ilanı için destek@ucuzuburada.com adresine başvurabilir.
-8. Kullanıcı, ilanını profil türüne göre belirlenen aralıklarla ücretsiz olarak yukarı taşıyabilir.
-9. Satılan, kiralanan veya artık geçerli olmayan ilanlar Kullanıcı tarafından yayından kaldırılmalıdır.
+5. Platform, ilan başlık ve açıklamalarını yapay zekâ destekli araçlarla başka dillere çevirebilir, arama motorları için özet bilgiler üretebilir ve Kullanıcı'nın talebi hâlinde ilan açıklaması önerisi sunabilir. İlan verilirken yüklenen fotoğraflar, başlık, kategori ve özellik önerisi sunmak için ilan yayınlanmadan önce de yapay zekâ dahil otomatik sistemlerce incelenebilir. Öneriler bağlayıcı değildir ve Kullanıcı tarafından kontrol edilerek kullanılır; nihai içerikten Kullanıcı sorumludur.
+6. Kullanıcı'nın bir ilana elle yazdığı iletişim numarası SMS ile doğrulanmaz ve “doğrulanmadı” notuyla gösterilir. Kullanıcı başkasına ait bir numara yazamaz; numara, sahibinin bildirimi üzerine gizlenebilir.
+7. İlanlar onay beklemeden yayına girer; yayına girerken ve yayında kaldıkları sürece otomatik (yapay zekâ destekli) kontrollerden geçer. Başlık ve açıklamadaki telefon numarası, e-posta adresi, IBAN, internet bağlantısı, sosyal medya hesabı ve küfür içeren ifadeler kaydedilirken otomatik olarak gizlenir.
+8. İşletmeci; kurallara aykırı olabileceği değerlendirilen ilanları incelemeye alma, yayından kaldırma, kategorisini değiştirme, düzeltme talep etme veya içerikte teknik düzenleme yapma hakkına sahiptir. Otomatik kontrollerin hata yapabileceğini bilen Kullanıcı, incelemeye alınan ilanı için destek@ucuzuburada.com adresine başvurabilir.
+9. Kullanıcı, ilanını profil türüne göre belirlenen aralıklarla ücretsiz olarak yukarı taşıyabilir.
+10. Satılan, kiralanan veya artık geçerli olmayan ilanlar Kullanıcı tarafından yayından kaldırılmalıdır.
 
 ## 7. Mesajlaşma ve İletişim
 
