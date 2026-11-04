@@ -1,14 +1,14 @@
 # Kişisel Verilerin Korunması Aydınlatma Metni
 
-> Sürüm 4 · yürürlük 2026-10-30 17:10 UTC
+> Sürüm 5 · yürürlük 2026-11-04 00:27 UTC
 > 
-> SHA-256: `2ac69514e671a6dd1abb0705a430c88ed5105141c5e5beab75aa76057bce83d0`
+> SHA-256: `c9fdd285d30ca89045fe6f703c8a040abd31f07319abc7a817143bbf13cdfd56`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/46
+> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/58
 > 
-> Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni
+> Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni?lang=tr
 > 
-> Değişiklik: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
+> Değişiklik: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -48,6 +48,7 @@ E-posta: kvkk@ucuzuburada.com
 | Uyuşmazlıklarda hakların tesisi, kullanılması ve korunması | Bir hakkın tesisi, kullanılması veya korunması |
 | Yasal metin onayının (hangi sürüm, ne zaman, hangi hesap) kaydının tutulması ve uyuşmazlıklarda ispat | Bir hakkın tesisi, kullanılması veya korunması; veri sorumlusunun meşru menfaati |
 | Uygulamanın geliştirilmesi ve hataların giderilmesi için, sizi tanıtmayan kullanım istatistiği (uygulamanın her kurulumunda toplanır; itiraz için kvkk@ucuzuburada.com) | Veri sorumlusunun meşru menfaati |
+| Bir ilana elle yazılan iletişim numarasının o ilanda giriş yapmış kullanıcılara gösterilmesi; açık oturumlar listesi için cihaz modeli ve son kullanım tarihi | Sözleşmenin kurulması ve ifası |
 | Konum bazlı sonuçlar, analiz çerezleri, kampanya bildirimleri | Açık rıza |
 
 ## 4. Toplama Yöntemi
@@ -56,7 +57,7 @@ Kişisel veriler; Platform'daki üyelik, ilan, mesajlaşma, satın alma ve başv
 
 ## 5. Aktarım
 
-Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü, harita, analiz ve e-posta/SMS hizmeti aldığımız tedarikçilere (Google, Apple, Meta, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
+Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü ve fotoğraflardan ilan önerisi, harita, analiz ve e-posta/SMS hizmeti aldığımız tedarikçilere (Google, Apple, Meta, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
 
 ## 6. Saklama Süresi
 
