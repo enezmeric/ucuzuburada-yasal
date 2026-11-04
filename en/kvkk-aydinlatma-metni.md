@@ -1,14 +1,14 @@
 # Personal Data Notice
 
-> Version 4 · in force from 2026-10-30 17:10 UTC
+> Version 5 · in force from 2026-11-04 00:27 UTC
 > 
-> SHA-256: `6f619c8ab90e11b0507abab2377b1f6de09d5399c4e3a7f76327e21eb1c47d0a`
+> SHA-256: `724ba76b7c0800364137716e04675021f08a5b6e0f9f8ec852d74eef07abacea`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/45
+> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/57
 > 
 > Current text: https://ucuzuburada.com/en/pages/kvkk-aydinlatma-metni
 > 
-> Change: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
+> Change: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -48,6 +48,7 @@ E-mail: kvkk@ucuzuburada.com
 | Establishing, exercising and defending rights in disputes | Establishment, exercise or defence of a right |
 | Keeping the record of which legal text you accepted (which version, when, which account) and proving it in disputes | Establishment, exercise or defence of a right; legitimate interest of the data controller |
 | Usage statistics that do not identify you, to improve the app and fix errors (collected from every installation of the app; objections to kvkk@ucuzuburada.com) | Legitimate interest of the data controller |
+| Showing a contact number typed on an ad to signed-in users on that ad; device model and last use date for the list of active sessions | Conclusion and performance of a contract |
 | Location-based results, analytics cookies, promotional notifications | Explicit consent |
 
 ## 4. Method of Collection
@@ -56,7 +57,7 @@ Personal data are collected electronically: directly from you through the Platfo
 
 ## 5. Transfers
 
-Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks, mapping, analytics and e-mail/SMS services (Google, Apple, Meta, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
+Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks and ad suggestions from photos, mapping, analytics and e-mail/SMS services (Google, Apple, Meta, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
 
 ## 6. Retention Period
 
