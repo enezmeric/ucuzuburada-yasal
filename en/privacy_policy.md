@@ -1,14 +1,14 @@
 # Privacy Policy
 
-> Version 4 · in force from 2026-10-30 17:10 UTC
+> Version 5 · in force from 2026-11-04 00:27 UTC
 > 
-> SHA-256: `1dae0df0a95e396c00fccc3bdd7b99402e8cdb6b349fdfd0c5994aaf863a868b`
+> SHA-256: `5f6604b6bea271deeddb1beed765aec6dd8a1f20cef6035ee9a610df6862d368`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/43
+> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/53
 > 
 > Current text: https://ucuzuburada.com/en/privacy-policy
 > 
-> Change: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
+> Change: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -42,6 +42,8 @@ This Privacy Policy explains how your personal data are collected, used, shared 
 ### 1.3 Information from third parties
 
 - When you sign in with Google, Apple or Facebook, your name, e-mail and profile photo from that account (from Facebook only your public profile and e-mail address; nothing is ever posted on Facebook on your behalf);
+- A contact number you type on an ad (not verified by SMS; shown on that ad only to signed-in users, marked “not verified”, and not available to search engines; removed from your ads when you delete your account);
+- Your device model and last use date, for the list of your active sessions;
 - For in-app purchases, purchase verification information from Apple or Google (transaction number, product, date, refund status; your card details are not passed to us), together with your credit balance and credit history.
 
 ## 2. How We Use Data
@@ -65,7 +67,7 @@ Your published ads and the public part of your profile (display name, profile ph
 
 We do not sell your personal data. Data are shared only in the following cases and to the extent necessary:
 
-- **Our service providers:** server and hosting services; Google Firebase for authentication, notifications, app crash reports and usage statistics; the Google Gemini AI service for translating ads, suggesting descriptions, automatic safety checks of ads and of profile and chat photos, smart search, the help assistant and, on request, translating chat messages (only the content being processed is sent); OpenStreetMap and/or Google Maps for maps; on the website, with your consent, Google Firebase Analytics and Microsoft Clarity for analytics; e-mail and SMS delivery services.
+- **Our service providers:** server and hosting services; Google Firebase for authentication, notifications, app crash reports and usage statistics; the Google Gemini AI service for translating ads, suggesting descriptions, suggesting a title, category and features from your photos when you post an ad (reduced copies of your photos are sent before the ad is published; copies of photos that are not published are not kept on our servers, only the result of the check and a fingerprint of the photo are stored), automatic safety checks of ads and of profile and chat photos, smart search, the help assistant and, on request, translating chat messages (only the content being processed is sent); OpenStreetMap and/or Google Maps for maps; on the website, with your consent, Google Firebase Analytics and Microsoft Clarity for analytics; e-mail and SMS delivery services.
 - **Payment providers:** Apple and Google, who handle in-app purchases.
 - **Other users:** users you contact see your messages and the information you share in your ads. When you apply to a job ad, your application details and CV are sent to the advertiser.
 - **Competent authorities:** upon duly issued requests of courts, prosecutors, the police and other competent public bodies, and where an offence is suspected.
