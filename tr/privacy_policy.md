@@ -1,14 +1,14 @@
 # Gizlilik Politikası
 
-> Sürüm 4 · yürürlük 2026-10-30 17:10 UTC
+> Sürüm 5 · yürürlük 2026-11-04 00:27 UTC
 > 
-> SHA-256: `ca1e6517d2dac0f09a0f6bd356a7365702e16ef987801e53ee7c729b800ee800`
+> SHA-256: `d71fff8c6d8779a1b538c70aae53f8397e6b69e2f07b585165b5e5747607ad96`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/44
+> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/54
 > 
-> Güncel metin: https://ucuzuburada.com/privacy-policy
+> Güncel metin: https://ucuzuburada.com/privacy-policy?lang=tr
 > 
-> Değişiklik: Facebook ile giriş eklendi: Facebook'tan yalnızca herkese açık profil ve e-posta adresi alınır; Meta yurt dışındaki hizmet sağlayıcılar arasında. / Sign in with Facebook added: only the public profile and the e-mail address come from Facebook; Meta is among the providers abroad.
+> Değişiklik: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
 
 ---
 
@@ -42,6 +42,8 @@ Bu Gizlilik Politikası, ucuzuburada.com internet sitesi ve Ucuzu Burada mobil u
 ### 1.3 Üçüncü kişilerden gelen bilgiler
 
 - Google, Apple veya Facebook ile giriş yaptığınızda ilgili hesabınızdan ad, e-posta ve profil fotoğrafı bilgileri (Facebook'tan yalnızca herkese açık profiliniz ve e-posta adresiniz alınır; sizin adınıza Facebook'ta hiçbir paylaşım yapılmaz);
+- Bir ilana elle yazdığınız iletişim numarası (SMS ile doğrulanmaz; o ilanda yalnızca giriş yapmış kullanıcılara “doğrulanmadı” notuyla gösterilir, arama motorlarına açık değildir; hesabınızı sildiğinizde ilanlardan kaldırılır);
+- Açık oturumlar listesi için cihazınızın modeli ve son kullanım tarihi;
 - Uygulama içi satın alımlarda Apple veya Google'dan gelen satın alma doğrulama bilgileri (işlem numarası, ürün, tarih, iade durumu; kart bilgileriniz bize iletilmez) ile hak bakiyeniz ve hak hareketleriniz.
 
 ## 2. Verileri Kullanma Amaçlarımız
@@ -65,7 +67,7 @@ Yayınladığınız ilanlar ve profilinizin herkese açık bölümü (görünen 
 
 Kişisel verilerinizi satmayız. Verileriniz yalnızca aşağıdaki durumlarda ve gerekli olduğu ölçüde paylaşılır:
 
-- **Hizmet sağlayıcılarımız:** Sunucu ve barındırma hizmetleri; kimlik doğrulama, bildirim, uygulama çökme raporları ve kullanım istatistikleri için Google Firebase; ilan metinlerinin çevirisi, açıklama önerileri, ilanların ve profil ile sohbet fotoğraflarının otomatik güvenlik kontrolü, akıllı arama, yardım asistanı ve istek üzerine sohbet mesajı çevirisi için Google Gemini yapay zekâ servisi (yalnızca işlenen içerik gönderilir); harita hizmetleri için OpenStreetMap ve/veya Google Maps; internet sitesinde izin vermeniz hâlinde analiz için Google Firebase Analytics ve Microsoft Clarity; e-posta ve SMS gönderim hizmetleri.
+- **Hizmet sağlayıcılarımız:** Sunucu ve barındırma hizmetleri; kimlik doğrulama, bildirim, uygulama çökme raporları ve kullanım istatistikleri için Google Firebase; ilan metinlerinin çevirisi, açıklama önerileri, ilan verirken fotoğraflardan başlık, kategori ve özellik önerileri (fotoğraflarınızın küçültülmüş kopyaları ilan yayınlanmadan önce gönderilir; yayınlanmayan fotoğrafların kopyası sunucularımızda saklanmaz, yalnızca kontrol sonucu ve fotoğrafın özet değeri tutulur), ilanların ve profil ile sohbet fotoğraflarının otomatik güvenlik kontrolü, akıllı arama, yardım asistanı ve istek üzerine sohbet mesajı çevirisi için Google Gemini yapay zekâ servisi (yalnızca işlenen içerik gönderilir); harita hizmetleri için OpenStreetMap ve/veya Google Maps; internet sitesinde izin vermeniz hâlinde analiz için Google Firebase Analytics ve Microsoft Clarity; e-posta ve SMS gönderim hizmetleri.
 - **Ödeme sağlayıcıları:** Uygulama içi satın alımları yürüten Apple ve Google.
 - **Diğer kullanıcılar:** İletişime geçtiğiniz kullanıcılar, mesajlarınızı ve ilanda paylaştığınız bilgileri görür. Bir iş ilanına başvurduğunuzda başvuru bilgileriniz ve özgeçmişiniz ilan sahibine iletilir.
 - **Yetkili makamlar:** Mahkeme, savcılık, polis ve diğer yetkili kamu kurumlarının usulüne uygun talepleri ile suç şüphesi taşıyan durumlarda.
