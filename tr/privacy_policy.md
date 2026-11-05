@@ -1,14 +1,14 @@
 # Gizlilik Politikası
 
-> Sürüm 6 · yürürlük 2026-11-05 14:43 UTC
+> Sürüm 7 · yürürlük 2026-11-05 19:27 UTC
 > 
-> SHA-256: `0414dfaef87ae1d4eba8e5fec03333f6864931b3c478368edae9d0a6e0dad630`
+> SHA-256: `bba1234ebc73d20d3fb76ac3ae075184148aaf3495dbef6e6631da04339a5e0d`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/60
+> Bu sürüm: https://ucuzuburada.com/legal/versions/privacy-policy/64
 > 
 > Güncel metin: https://ucuzuburada.com/privacy-policy?lang=tr
 > 
-> Değişiklik: Mesaj hizmetleri listesine WhatsApp eklendi. / WhatsApp added to the list of message services.
+> Değişiklik: Yapay zekâ sağlayıcısının adı yerine genel ifade. / AI providers in general instead of a name.
 
 ---
 
@@ -67,7 +67,7 @@ Yayınladığınız ilanlar ve profilinizin herkese açık bölümü (görünen 
 
 Kişisel verilerinizi satmayız. Verileriniz yalnızca aşağıdaki durumlarda ve gerekli olduğu ölçüde paylaşılır:
 
-- **Hizmet sağlayıcılarımız:** Sunucu ve barındırma hizmetleri; kimlik doğrulama, bildirim, uygulama çökme raporları ve kullanım istatistikleri için Google Firebase; ilan metinlerinin çevirisi, açıklama önerileri, ilan verirken fotoğraflardan başlık, kategori ve özellik önerileri (fotoğraflarınızın küçültülmüş kopyaları ilan yayınlanmadan önce gönderilir; yayınlanmayan fotoğrafların kopyası sunucularımızda saklanmaz, yalnızca kontrol sonucu ve fotoğrafın özet değeri tutulur), ilanların ve profil ile sohbet fotoğraflarının otomatik güvenlik kontrolü, akıllı arama, yardım asistanı ve istek üzerine sohbet mesajı çevirisi için Google Gemini yapay zekâ servisi (yalnızca işlenen içerik gönderilir); harita hizmetleri için OpenStreetMap ve/veya Google Maps; internet sitesinde izin vermeniz hâlinde analiz için Google Firebase Analytics ve Microsoft Clarity; e-posta, SMS ve WhatsApp (Meta) mesajlaşma hizmetleri.
+- **Hizmet sağlayıcılarımız:** Sunucu ve barındırma hizmetleri; kimlik doğrulama, bildirim, uygulama çökme raporları ve kullanım istatistikleri için Google Firebase; ilan metinlerinin çevirisi, açıklama önerileri, ilan verirken fotoğraflardan başlık, kategori ve özellik önerileri (fotoğraflarınızın küçültülmüş kopyaları ilan yayınlanmadan önce gönderilir; yayınlanmayan fotoğrafların kopyası sunucularımızda saklanmaz, yalnızca kontrol sonucu ve fotoğrafın özet değeri tutulur), ilanların ve profil ile sohbet fotoğraflarının otomatik güvenlik kontrolü, akıllı arama, yardım asistanı ve istek üzerine sohbet mesajı çevirisi için yapay zekâ hizmet sağlayıcıları (yalnızca işlenen içerik gönderilir); harita hizmetleri için OpenStreetMap ve/veya Google Maps; internet sitesinde izin vermeniz hâlinde analiz için Google Firebase Analytics ve Microsoft Clarity; e-posta, SMS ve WhatsApp (Meta) mesajlaşma hizmetleri.
 - **Ödeme sağlayıcıları:** Uygulama içi satın alımları yürüten Apple ve Google.
 - **Diğer kullanıcılar:** İletişime geçtiğiniz kullanıcılar, mesajlarınızı ve ilanda paylaştığınız bilgileri görür. Bir iş ilanına başvurduğunuzda başvuru bilgileriniz ve özgeçmişiniz ilan sahibine iletilir.
 - **Yetkili makamlar:** Mahkeme, savcılık, polis ve diğer yetkili kamu kurumlarının usulüne uygun talepleri ile suç şüphesi taşıyan durumlarda.
