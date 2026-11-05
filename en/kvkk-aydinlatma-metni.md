@@ -1,14 +1,14 @@
 # Personal Data Notice
 
-> Version 5 · in force from 2026-11-04 00:27 UTC
+> Version 6 · in force from 2026-11-05 14:43 UTC
 > 
-> SHA-256: `724ba76b7c0800364137716e04675021f08a5b6e0f9f8ec852d74eef07abacea`
+> SHA-256: `c7dff6626823070a4286d0494303710821cfd65e6bf0d033601315fd14a897c6`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/57
+> This version: https://ucuzuburada.com/en/legal/versions/kvkk-aydinlatma-metni/61
 > 
 > Current text: https://ucuzuburada.com/en/pages/kvkk-aydinlatma-metni
 > 
-> Change: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
+> Change: Mesaj hizmetleri listesine WhatsApp eklendi. / WhatsApp added to the list of message services.
 
 ---
 
@@ -57,7 +57,7 @@ Personal data are collected electronically: directly from you through the Platfo
 
 ## 5. Transfers
 
-Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks and ad suggestions from photos, mapping, analytics and e-mail/SMS services (Google, Apple, Meta, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
+Personal data may be transferred, limited to the purposes above, to the suppliers from whom we obtain hosting, authentication, notification, translation, AI-assisted content checks and ad suggestions from photos, mapping, analytics and e-mail/SMS/WhatsApp services (Google, Apple, Meta, Microsoft and similar providers whose servers may be located outside the TRNC), to Apple and Google for in-app purchases, to other users you contact, and to competent public authorities.
 
 ## 6. Retention Period
 
