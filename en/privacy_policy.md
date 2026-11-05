@@ -1,14 +1,14 @@
 # Privacy Policy
 
-> Version 5 · in force from 2026-11-04 00:27 UTC
+> Version 6 · in force from 2026-11-05 14:43 UTC
 > 
-> SHA-256: `5f6604b6bea271deeddb1beed765aec6dd8a1f20cef6035ee9a610df6862d368`
+> SHA-256: `2680da5d599e6dde72dd7e83bcc0a04d5f39608a32f0f7845371c2d969211946`
 > 
-> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/53
+> This version: https://ucuzuburada.com/en/legal/versions/privacy-policy/59
 > 
 > Current text: https://ucuzuburada.com/en/privacy-policy
 > 
-> Change: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
+> Change: Mesaj hizmetleri listesine WhatsApp eklendi. / WhatsApp added to the list of message services.
 
 ---
 
@@ -67,7 +67,7 @@ Your published ads and the public part of your profile (display name, profile ph
 
 We do not sell your personal data. Data are shared only in the following cases and to the extent necessary:
 
-- **Our service providers:** server and hosting services; Google Firebase for authentication, notifications, app crash reports and usage statistics; the Google Gemini AI service for translating ads, suggesting descriptions, suggesting a title, category and features from your photos when you post an ad (reduced copies of your photos are sent before the ad is published; copies of photos that are not published are not kept on our servers, only the result of the check and a fingerprint of the photo are stored), automatic safety checks of ads and of profile and chat photos, smart search, the help assistant and, on request, translating chat messages (only the content being processed is sent); OpenStreetMap and/or Google Maps for maps; on the website, with your consent, Google Firebase Analytics and Microsoft Clarity for analytics; e-mail and SMS delivery services.
+- **Our service providers:** server and hosting services; Google Firebase for authentication, notifications, app crash reports and usage statistics; the Google Gemini AI service for translating ads, suggesting descriptions, suggesting a title, category and features from your photos when you post an ad (reduced copies of your photos are sent before the ad is published; copies of photos that are not published are not kept on our servers, only the result of the check and a fingerprint of the photo are stored), automatic safety checks of ads and of profile and chat photos, smart search, the help assistant and, on request, translating chat messages (only the content being processed is sent); OpenStreetMap and/or Google Maps for maps; on the website, with your consent, Google Firebase Analytics and Microsoft Clarity for analytics; e-mail, SMS and WhatsApp (Meta) messaging services.
 - **Payment providers:** Apple and Google, who handle in-app purchases.
 - **Other users:** users you contact see your messages and the information you share in your ads. When you apply to a job ad, your application details and CV are sent to the advertiser.
 - **Competent authorities:** upon duly issued requests of courts, prosecutors, the police and other competent public bodies, and where an offence is suspected.
