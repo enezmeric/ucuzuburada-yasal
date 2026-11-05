@@ -1,14 +1,14 @@
 # Kişisel Verilerin Korunması Aydınlatma Metni
 
-> Sürüm 5 · yürürlük 2026-11-04 00:27 UTC
+> Sürüm 6 · yürürlük 2026-11-05 14:43 UTC
 > 
-> SHA-256: `c9fdd285d30ca89045fe6f703c8a040abd31f07319abc7a817143bbf13cdfd56`
+> SHA-256: `7e662c393c50b81925486cc874db336f96ce632bd255e0e769b05dc6d2991d35`
 > 
-> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/58
+> Bu sürüm: https://ucuzuburada.com/legal/versions/kvkk-aydinlatma-metni/62
 > 
 > Güncel metin: https://ucuzuburada.com/pages/kvkk-aydinlatma-metni?lang=tr
 > 
-> Değişiklik: Fotoğraflardan yapay zekâ önerisi (yayından önce), ilana elle yazılan numara ve açık oturumlar eklendi. / AI suggestions from photos (before publishing), a number typed on an ad and active sessions added.
+> Değişiklik: Mesaj hizmetleri listesine WhatsApp eklendi. / WhatsApp added to the list of message services.
 
 ---
 
@@ -57,7 +57,7 @@ Kişisel veriler; Platform'daki üyelik, ilan, mesajlaşma, satın alma ve başv
 
 ## 5. Aktarım
 
-Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü ve fotoğraflardan ilan önerisi, harita, analiz ve e-posta/SMS hizmeti aldığımız tedarikçilere (Google, Apple, Meta, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
+Kişisel veriler, yukarıdaki amaçlarla sınırlı olarak; barındırma, kimlik doğrulama, bildirim, çeviri, yapay zekâ destekli içerik kontrolü ve fotoğraflardan ilan önerisi, harita, analiz ve e-posta/SMS/WhatsApp hizmeti aldığımız tedarikçilere (Google, Apple, Meta, Microsoft ve benzeri, sunucuları KKTC dışında da bulunabilen hizmet sağlayıcılar), uygulama içi satın alımlar için Apple ve Google'a, iletişim kurduğunuz diğer kullanıcılara ve yetkili kamu kurum ve kuruluşlarına aktarılabilir.
 
 ## 6. Saklama Süresi
 
